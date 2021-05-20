@@ -48,4 +48,4 @@ The Dev wallet will hold 10% for things like airdrops, and as a general Emergenc
 
 ## Fair Launch \ Sale \ Anti-Rug Pull
 
-All tokens in circulation, aside from the celebrity and dev allocations, are locked into the liquidity pool. This means that if a rug pull does happen, it will be clear for everyone envolved to see. All tokens that will ever be minted are already minted and you CANNOT mint more. See contract for more details.
+All tokens in circulation, aside from the celebrity and dev allocations, are locked into the liquidity pool. This means that if a rug pull does happen, it will be clear for everyone involved to see. All tokens that will ever be minted are already minted and you CANNOT mint more. See contract for more details.
