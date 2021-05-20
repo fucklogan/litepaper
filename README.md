@@ -44,7 +44,13 @@ In order for this token to be traded on a dex like pancake, liquidity must initi
 
 The Dev wallet will hold 10% for things like airdrops, and as a general Emergency fund.
 
+## Automatic LP
 
+Every trade contributes towards automatically generating liquidity that goes into multiple pools used by exchanges.
+
+## RFI Static Rewards
+
+Holders earn passive rewards through static reflection as they watch their balance of FUCKLOGANs grow indefinitely.
 
 ## Fair Launch \ Sale \ Anti-Rug Pull
 
