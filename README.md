@@ -33,7 +33,7 @@ We have adapted and modified this concept into our token launch.
 
 ![graph](https://i.ibb.co/sFyRp6s/Capture.jpg)
 
-Our main target for allocation is of course **Floyd Mayweather**. If we can amuse him enough to get his attention, perhaps he will pick us up as a partner. The probability is low and so in the event that he declines or doesn't acknowledge our offer before the Logan Paul fight on June 1st, 2021, we will extend the offer through the hierarchy stated above. **If no one picks us up, we will burn that 51% allocation.**
+Our main target for allocation is of course **Floyd Mayweather**. If we can amuse him enough to get his attention, perhaps he will pick us up as a partner. The probability is low and so in the event that he declines or doesn't acknowledge our offer before June 1st, 2021, we will extend the offer through the hierarchy stated above. **If no one picks us up by June 6th, 2021, we will burn that 51% allocation.**
 
 
 **Liquidity Lock**
