@@ -20,9 +20,9 @@ This is where we differentiate ourselves from our competitors.
 
 |                |Amount                        |Amount (%)                       |
 |----------------|-------------------------------|-----------------------------|
-|Celebrity Holder|`510,000,000,000`            |51%           |
-|Liquidity Locked|`390,000,000,000`            |39%            |
-|Dev Wallet       |`100,000,000,000`|10%
+|Celebrity Holder|`510,000,000,000,000`            |51%           |
+|Liquidity Locked|`390,000,000,000,000`            |39%            |
+|Dev Wallet       |`100,000,000,000,000`|10%
 
 
 
